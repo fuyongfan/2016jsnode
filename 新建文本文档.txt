@@ -1,0 +1,2 @@
+git remote update zhufeng
+git pull zhufeng master
